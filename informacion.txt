@@ -1,0 +1,12 @@
+Host: youtube.com
+IP: 216.58.222.238
+Server: YouTube Frontend Proxy
+Content-Encoding: gzip
+Content-Type: text/html; charset=utf-8
+
+Host: youtube.com
+IP: 216.58.222.238
+Server: YouTube Frontend Proxy
+Content-Encoding: gzip
+Content-Type: text/html; charset=utf-8
+
